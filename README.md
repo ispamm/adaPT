@@ -1,4 +1,4 @@
-# Adaptive Point Transformer (AdaPT) Model Repository
+# Adaptive Token Selection for Scalable Point Cloud Transformers
 
 Welcome to the AdaPT Repository. This repository contains a deep learning model for point cloud classification using transformers and adaptive token dropping.
 
@@ -9,13 +9,13 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/alessandrobaiocchi/AdaPT_reloaded
+   git clone https://github.com/ispamm/adaPT
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd AdaPT_reloaded
+   cd adaPT
    ```
 
 3. Create a Conda environment from the provided `Adapt_env.yaml` file:
