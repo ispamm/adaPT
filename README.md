@@ -2,6 +2,17 @@
 
 Welcome to the AdaPT Repository. This repository contains a deep learning model for point cloud classification using transformers and adaptive token dropping.
 
+```bash
+@article{baiocchi2025adapt,
+title = {Adaptive token selection for scalable point cloud transformers},
+journal = {Neural Networks},
+year = {2025},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.107477},
+author = {Alessandro Baiocchi and Indro Spinelli and Alessandro Nicolosi and Simone Scardapane},
+}
+```
+
 ## Installation
 
 To get started with this project, follow these steps:
